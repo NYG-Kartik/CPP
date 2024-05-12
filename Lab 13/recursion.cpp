@@ -3,7 +3,7 @@ Author: Kartik Vanjani
 Course: CSCI-135
 Instructor: Tong Yi
 Assignment: LAB 13D
-Description: This program works with recursion
+Description: This program works with recursion and defining helper functions
 */
 
 #include <iostream>
